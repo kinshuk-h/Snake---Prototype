@@ -56,3 +56,5 @@ upon collision/interaction. Some of them are :
 - *Rubber (GREEN)* : Destructible; Allows the snake to bounce off into the opposite direction. 
 
 # Screenshots
+![Gameplay](https://github.com/kinshuk-h/Snake---Prototype/blob/master/Gameplay.jpg)
+![Pass through Powerup being used](https://github.com/kinshuk-h/Snake---Prototype/blob/master/PowerUp.jpg)
